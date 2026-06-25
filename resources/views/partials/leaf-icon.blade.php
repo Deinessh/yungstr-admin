@@ -1,0 +1,1 @@
+<svg class="w-5 h-5 text-brand-green shrink-0" fill="currentColor" viewBox="0 0 24 24"><path d="M17 8C8 10 5.9 16.17 3.82 21.34L5.71 22l1.06-3.5C7.7 19.5 9.5 21 12 21c4.97 0 9-4.03 9-9 0-1.66-.45-3.22-1.24-4.56C18.5 8.5 17.8 8.2 17 8z"/></svg>

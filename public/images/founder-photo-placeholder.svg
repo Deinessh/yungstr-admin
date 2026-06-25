@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 300" fill="none" aria-hidden="true">
+  <rect width="240" height="300" fill="#F3E8D4"/>
+  <ellipse cx="120" cy="118" rx="52" ry="58" fill="#E8D9C2"/>
+  <circle cx="120" cy="95" r="28" fill="#DCC9AD"/>
+  <path d="M72 195 C82 160 98 145 120 145 C142 145 158 160 168 195" fill="#DCC9AD"/>
+  <ellipse cx="120" cy="118" rx="52" ry="58" stroke="#D4AF37" stroke-width="3"/>
+  <text x="120" y="255" text-anchor="middle" fill="#8D6E63" font-family="Georgia, serif" font-size="13">Founder photo</text>
+</svg>

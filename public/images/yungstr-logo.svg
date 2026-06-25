@@ -1,0 +1,17 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="100" cy="100" r="95" fill="#000000" stroke="#22C55E" stroke-width="2"/>
+  
+  <!-- Y shape in neon green -->
+  <g fill="none" stroke="#22C55E" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Left arm of Y -->
+    <line x1="50" y1="50" x2="100" y2="100"/>
+    <!-- Right arm of Y -->
+    <line x1="150" y1="50" x2="100" y2="100"/>
+    <!-- Stem of Y -->
+    <line x1="100" y1="100" x2="100" y2="150"/>
+  </g>
+  
+  <!-- Text: YUNGSTR CLUB -->
+  <text x="100" y="170" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#22C55E" text-anchor="middle" letter-spacing="2">YUNGSTR</text>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" fill="none">
+  <circle cx="28" cy="30" r="22" fill="#1B4332"/>
+  <circle cx="28" cy="30" r="14" fill="#E67E22" opacity="0.9"/>
+  <text x="58" y="28" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#1B4332">S7</text>
+  <text x="58" y="46" font-family="Arial, sans-serif" font-size="14" font-weight="600" fill="#E67E22">MilletCo</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 500" fill="none">
+  <rect width="600" height="500" rx="24" fill="#F5EDE0"/>
+  <ellipse cx="300" cy="420" rx="200" ry="30" fill="#1B4332" opacity="0.08"/>
+  <rect x="80" y="120" width="120" height="180" rx="12" fill="#fff" stroke="#1B4332" stroke-width="2"/>
+  <rect x="90" y="130" width="100" height="60" rx="6" fill="#1B4332"/>
+  <text x="140" y="165" text-anchor="middle" font-family="Arial" font-size="10" fill="#fff">Multi Millet</text>
+  <rect x="240" y="80" width="120" height="200" rx="12" fill="#fff" stroke="#E67E22" stroke-width="2"/>
+  <rect x="250" y="90" width="100" height="70" rx="6" fill="#E67E22"/>
+  <text x="300" y="130" text-anchor="middle" font-family="Arial" font-size="10" fill="#fff">Ragi Dosa</text>
+  <rect x="400" y="130" width="120" height="170" rx="12" fill="#fff" stroke="#1B4332" stroke-width="2"/>
+  <rect x="410" y="140" width="100" height="55" rx="6" fill="#2D6A4F"/>
+  <text x="460" y="172" text-anchor="middle" font-family="Arial" font-size="9" fill="#fff">Pesarattu</text>
+  <ellipse cx="300" cy="340" rx="90" ry="70" fill="#E67E22" opacity="0.3"/>
+  <ellipse cx="300" cy="335" rx="75" ry="55" fill="#FDF8F1" stroke="#E67E22" stroke-width="2"/>
+  <path d="M220 300 Q300 260 380 300" stroke="#1B4332" stroke-width="3" fill="none"/>
+  <circle cx="180" cy="200" r="8" fill="#1B4332" opacity="0.4"/>
+  <circle cx="420" cy="180" r="6" fill="#E67E22" opacity="0.5"/>
+  <text x="300" y="480" text-anchor="middle" font-family="Arial" font-size="14" fill="#2D2D2D" opacity="0.5">Healthy Breakfast in 3 Minutes</text>
+</svg>
